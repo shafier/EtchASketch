@@ -1,6 +1,6 @@
 This project is to build an Etch-A-Sketch game, where the requirements are from  [The Etch A Sketch project in TOP](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project).
 
-I **worked** with, including to but not limited to: 
+I **worked** with, including but not limited to: 
 1. Manipulating DOM.
     1. Using the document.querySelector.
     2. Changing a div's Style properties.
